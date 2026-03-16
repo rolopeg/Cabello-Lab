@@ -2,6 +2,8 @@
 
 **Graphical representation of the *C. elegans* Integrator complex interactome.**
 
+![alt text](C_elegans_IC_interactome.png)
+
 The Integrator complex is shown as the central node of the diagram. Interacting proteins are depicted as surrounding colored dots:
 * 🔵 **Blue:** Nuclear proteins
 * 🔴 **Red:** Mitochondrial proteins
@@ -23,4 +25,4 @@ Click on the links below to open and explore the interactive network models dire
   
 *(Note: This link will open a new interactive webpage where you can zoom, pan, and hover over the nodes for more detailed information).*
 
-![alt text](C_elegans_IC_interactome.png)
+
