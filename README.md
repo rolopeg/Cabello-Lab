@@ -47,8 +47,8 @@ Cabello-Lab/
 ## 🌐 Quick Links to Interactive Visualizations
 
 For a better reviewing experience, we have hosted the interactive network models using GitHub Pages. You can explore them directly in your web browser without downloading any files:
-* Explore the C. elegans Integrator Complex Interactome
-* Explore the C. elegans Integrator Subunit Interaction Map
+* Explore the C. elegans Integrator Complex Interactome: https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20interactome%20website/C_elegans_IC_interactome.html
+* Explore the C. elegans Integrator Subunit Interaction Map: https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20structure%20website/C_elegans_IC_subunit_interaction_map.html
 
 ### UpSet Intersection Plot
 To explore the intersecting sets of interacting proteins (IP-MS data):
