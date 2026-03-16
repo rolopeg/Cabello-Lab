@@ -17,7 +17,7 @@ An interactive and detailed view of the dynamic model described in the article i
 
 Click the link below to open the visualization directly in your web browser:
 
-*[🔗 **Explore the *C. elegans* Integrator Subunit Interaction Map**](https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20structure%20website/C_elegans_IC_subunit_interaction_map.html)
+* [🔗 **Explore the *C. elegans* Integrator Subunit Interaction Map**](https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20structure%20website/C_elegans_IC_subunit_interaction_map.html)
 
 *(Note: In the interactive interface, you can use the left sidebar to toggle specific subunits on or off, adjust the minimum weight deletion slider at the top, and click on individual nodes to view specific interaction metrics in the right panel).*
 
