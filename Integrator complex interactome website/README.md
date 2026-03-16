@@ -1,6 +1,6 @@
 # 🧬 *C. elegans* Integrator Complex Interactome
 
-**(A) Graphical representation of the *C. elegans* Integrator complex interactome.**
+** Graphical representation of the *C. elegans* Integrator complex interactome.**
 
 The Integrator complex is shown as the central node of the diagram. Interacting proteins are depicted as surrounding colored dots:
 * 🔵 **Blue:** Nuclear proteins
