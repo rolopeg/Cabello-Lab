@@ -21,6 +21,6 @@ Click on the links below to open and explore the interactive network models dire
 
 * [🔗 **Explore the *C. elegans* Integrator Complex Interactome**](https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20interactome%20website/C_elegans_IC_interactome.html)
   
-*[🔗 **Explore the *C. elegans* Integrator Subunit Interaction Map**](https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20interactome%20website/C_elegans_IC_subunit_interaction_map.html)
+* [🔗 **Explore the *C. elegans* Integrator Subunit Interaction Map**](https://rolopeg.github.io/Cabello-Lab/Integrator%20complex%20interactome%20website/C_elegans_IC_subunit_interaction_map.html)
 
 *(Note: These links will open a new interactive webpage where you can zoom, pan, and hover over the nodes for more detailed information).*
