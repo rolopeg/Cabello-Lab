@@ -1,0 +1,105 @@
+Gene name;ints-01;ints-02;ints-03;ints-04              ;ints-05             ;ints-06         ;ints-07         ;ints-08          ;ints-09          ;ints-11          ;ints-12;ints-13          ;Accession;Wormbase Gene ID;Sequence name;Description;Cellular compartment;Human ortholog
+nasp-2;1;1;0;1;0;1;0;0;0;1;0;0;O17687;WBGene00008218;C50B6.2;NASP (human Nuclear Autoantigenic Sperm Protein) homolog. Predicted to be involved in CENP-A containing chromatin assembly and DNA replication-dependent chromatin assembly;Nucleus;HGNC:7644
+ama-1;1;0;0;1;0;1;0;0;0;0;1;0;P16356;WBGene00000123;F36A4.7;DNA-directed RNA polymerase II subunit RPB1;Nucleus;HGNC:9187
+C06G3.8;0;0;1;0;0;1;0;0;0;1;0;0;Q17749;WBGene00015554;C06G3.8;Predicted to be part of SOSS complex;Nucleus;HGNC:26232
+egl-4;1;0;0;0;0;1;0;0;0;0;1;0;O76360;WBGene00001173;F55A8.2;Enables cGMP-dependent protein kinase activity. protein phosphorylation. regulation of signal transduction;Nucleus, Cytoplasm;HGNC:9414
+top-2;1;0;0;1;0;0;0;0;0;0;0;0;Q23670;WBGene00010785;K12D12.1;"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity; and ion binding activity. ";Nucleus;HGNC:11989
+nol-58;1;0;0;0;0;1;0;0;0;0;0;0;O45012;WBGene00020915;W01B11.3;NucleOLar protein. Predicted to enable snoRNA binding activity. Predicted to be involved in ribosome biogenesis.;Nucleus;HGNC:29926
+nova-1;0;0;0;1;0;1;0;0;0;0;0;0;Q9GRY9;WBGene00013347;Y59A8B.10;Predicted to enable mRNA binding activity. Predicted to be involved in mRNA processing and regulation of alternative mRNA splicing.;Nucleus, Cytoplasm;HGNC:7886
+ppm-1.A;0;0;0;0;0;0;1;1;0;0;0;0;Q19775;WBGene00006460;F25D1.1;protein serine and threonine phosphatase activity. Predicted to be involved in negative regulation of stress-activated MAPK cascade;Nucleus, Cytoplasm;HGNC:9275
+acdh-9;0;0;0;1;0;0;0;0;1;0;0;1;Q95YB2;WBGene00017874;F28A10.6;Acyl CoA DeHydrogenase;Mitochondria;HGNC:87
+mccc-2;1;0;0;1;0;0;1;0;0;0;0;0;P34385;WBGene00303021;F02A9.10;putative methylcrotonoyl-CoA carboxylase beta chain;Mitochondria;HGNC:6937
+acdh-11;1;0;0;0;0;0;1;0;0;0;0;0;Q9XWZ2;WBGene00012860;Y45F3A.3;Acyl-CoA dehydrogenase family member 11 ;Mitochondria;N.A.
+B0250.5;1;0;0;0;0;0;0;1;0;0;0;0;Q9XTI0;WBGene00007122;B0250.5;Putative 3-hydroxyisobutyrate dehydrogenase;Mitochondria;HGNC:4907
+dhs-19;0;0;0;1;0;1;0;0;0;0;0;0;Q22392;WBGene00000982;T11F9.11;DeHydrogenases, Short chain. oxidoreductase activity;Mitochondria (predicted);HGNC:30311
+drp-1;1;0;0;1;0;0;0;0;0;0;0;0;G5EDY8;WBGene00001093;T12E12.4;Dynamin GTPase;Mitochondria;HGNC:2973
+gas-1;0;0;0;1;0;0;1;0;0;0;0;0;Q93873;WBGene00001520;K09A9.5;Putative NADH dehydrogenase [ubiquinone] iron-sulfur protein 2;Mitochondria;HGNC:7708
+mccc-1;1;0;0;0;0;1;0;0;0;0;0;0;O45430;WBGene00009319;F32B6.2;MethylCrotonoyl-Coenzyme A Carboxylase (alpha);Mitochondria;HGNC:6936
+mecr-1;0;0;0;0;0;1;1;0;0;0;0;0;O45903;WBGene00012375;W09H1.5;Enoyl-[acyl-carrier-protein] reductase;Mitochondria;HGNC:19691
+mmaa-1;1;0;0;0;0;0;1;0;0;0;0;0;Q22111;WBGene00020169;T02G5.13;Methylmalonic aciduria type A homolog;Mitochondria;HGNC:18871
+nuo-2;0;0;0;1;0;1;0;0;0;0;0;0;Q86NC2;WBGene00020417;T10E9.7;NADH dehydrogenase [ubiquinone] iron-sulfur protein 3;Mitochondria;HGNC:7710
+nuo-4;0;1;0;0;0;0;0;0;1;0;0;0;Q8MQ11;WBGene00019401;K04G7.4;NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10;Mitochondria;HGNC:7684
+romo-1;1;0;0;0;0;1;0;0;0;0;0;0;Q93511;WBGene00008860;F15D4.3;(Reactive Oxygen species MOdulator) homolog. Predicted to be involved in protein import into mitochondrial matrix and protein insertion into mitochondrial inner membrane. ;Mitochondria;HGNC:16185
+fars-3;1;0;0;0;0;1;1;0;0;0;0;0;Q19713;WBGene00001498;F22B5.9;Phenylalanine--tRNA ligase beta subunit  ;Cytoplam;HGNC:17800
+glh-1;0;0;0;0;1;1;0;1;0;0;0;0;P34689;WBGene00001598;T21G5.3;ATP-dependent RNA helicase;Cytoplasm;HGNC:18700
+laf-1;1;0;0;1;0;0;1;0;0;0;0;0;D0PV95;WBGene00002244;Y71H2AM.19;Putative DEAD-box RNA helicase;Cytoplam;HGNC:2745
+vha-11;1;0;0;0;0;1;0;1;0;0;0;0;Q9XXU9;WBGene00006920;Y38F2AL.3;V-type proton ATPase subunit C;Cytoplasm;HGNC:856
+srpa-72;0;0;1;0;0;1;1;0;0;0;0;0;P91240;WBGene00017245;F08D12.1;Signal Recognition PArticle. SRP-dependent cotranslational protein targeting to membrane;Cytoplasm;HGNC:11303|EnsEMBL
+unc-70;0;0;0;0;0;0;1;0;0;0;0;1;G5EG85;WBGene00006803;K11C4.3;"Beta-G spectrin; Predicted to enable actin filament binding activity";Cytoplasm;HGNC:11274
+acly-2;0;1;0;0;0;1;0;0;0;0;0;0;P90731;WBGene00007150;B0365.1;ATP-citrate synthase ;Cytoplasm;HGNC:115
+acs-17;0;0;0;0;0;0;1;0;0;0;0;1;Q18660;WBGene00016716;C46F4.2;fatty Acid CoA Synthetase family;Cytoplasm, membrane, endoplasmic reticulum;HGNC:3570
+acs-4;0;0;0;1;0;0;1;0;0;0;0;0;Q20121;WBGene00018152;F37C12.7;fatty Acid CoA Synthetase family ;Cytoplasm, membrane, endoplasmic reticulum;HGNC:3570
+acs-5;0;0;0;1;0;1;0;0;0;0;0;0;Q9XWD1;WBGene00013575;Y76A2B.3;fatty Acid CoA Synthetase family ;Cytoplasm, membrane, endoplasmic reticulum;HGNC:16526
+atic-1;0;0;0;1;1;0;0;0;0;0;0;0;Q95QQ5;WBGene00016957;C55F2.1;5-Aminoimidazole-4-carboxamide ribonucleotide formylTransferase/IMP Cyclohydrolase homolog  ;Cytoplam;HGNC:794
+C02D5.4;0;0;0;1;0;0;0;1;0;0;0;0;D7SFI3;WBGene00043097;C02D5.4;Predicted to be involved in glutathione metabolic process;cytoplasm;HGNC:13312
+dars-1;1;0;0;0;0;0;0;0;0;0;0;1;Q03577;WBGene00001094;B0464.1;aspartyl(D) Amino-acyl tRNA Synthetase.;Cytoplasm;HGNC:2678
+elo-1;0;0;0;1;0;0;1;0;0;0;0;0;G5EEE5;WBGene00001239;F56H11.4;Elongation of very long chain fatty acids protein. ;Cytoplasm, endoplasmic reticulum;N.A.
+glb-1;0;0;0;0;1;0;1;0;0;0;0;0;P30627;WBGene00014030;ZK637.13;Globin-like protein. Predicted to be involved in oxygen transport  ;Cytoplam;N.A.
+glp-4;1;0;0;0;0;0;1;0;0;0;0;0;Q9U1Q4;WBGene00006936;Y87G2A.5;Predicted to enable valine-tRNA ligase activity.;Cytoplam;HGNC:12651
+gls-1;0;0;0;0;0;0;1;0;0;0;0;1;Q8I4M5;WBGene00007975;C36B1.8;Predicted to be involved in meiotic cell cycle. Located in P granule;Cytoplam;N.A.
+hgo-1;0;0;0;0;0;0;0;1;0;1;0;0;Q9Y041;WBGene00001843;W06D4.1;HomoGentisate Oxidase. Predicted to enable homogentisate 1,2-dioxygenase activity. Predicted to be involved in L-phenylalanine catabolic process;Cytoplasm;HGNC:4892
+mlc-4;0;0;0;0;0;1;1;0;0;0;0;0;Q09510;WBGene00003372;C56G7.1;Myosin regulatory light chain;Cytoplasm;HGNC:15754
+msp-10;0;0;0;0;0;1;1;0;0;0;0;0;P05634;WBGene00003425;K07F5.2;Major sperm protein ;Cytoplasm;N.A.
+pgk-1;0;0;0;0;0;0;1;0;0;0;0;1;P91427;WBGene00020185;T03F1.3;phosphoglycerate kinase;Cytoplasm;HGNC:8896
+pyr-1;0;0;0;1;0;1;0;0;0;0;0;0;Q18990;WBGene00004259;D2085.1;PYRimidine biosynthesis. Predicted to enable aspartate carbamoyltransferase activity and dihydroorotase activity;Cytoplasm;HGNC:1424
+rars-1;0;0;0;0;0;0;1;0;1;0;0;0;Q65ZK0;WBGene00004679;F26F4.10;arginine-tRNA ligase;Cytoplam;HGNC:9870
+sars-1;1;0;0;0;0;0;0;0;1;0;0;0;Q18678;WBGene00005663;C47E12.1;serine-tRNA ligase;Cytoplasm;HGNC:10537
+sgt-1;0;0;0;1;0;1;0;0;0;0;0;0;Q21746;WBGene00019893;R05F9.10;Small Glutamine-rich Tetratrico repeat protein. Predicted to be involved in posttranslational protein targeting to endoplasmic reticulum membrane and ubiquitin-dependent ERAD pathway;Cytoplasm;HGNC:10819
+tba-1;0;0;0;1;0;0;1;0;0;0;0;0;O18688;WBGene00006528;F26E4.8;TuBulin, Alpha  ;Cytoplasm;HGNC:23534
+Y57A10A.26;1;0;0;0;0;1;0;0;0;0;0;0;Q9NA74;WBGene00013266;Y57A10A.26;Is an ortholog of human FAXC (failed axon connections homolog, metaxin like GST domain containing);Cytoplasm;HGNC:20742
+cct-1;1;0;0;1;0;0;1;0;0;0;0;1;P41988;WBGene00000377;T05C12.7;T-complex protein 1 subunit alpha;Proteosome;HGNC:11655
+dss-1;1;0;1;1;0;0;1;0;0;1;0;0;Q95Y72;WBGene00022492;Y119D3B.15;putative 26S proteasome complex subunit dss-1;Proteosome;N.A.
+rpn-3;1;0;0;1;0;1;1;0;0;0;0;0;Q04908;WBGene00004460;C30C11.2;26S proteasome non-ATPase regulatory subunit 3;Proteosome;HGNC:9560
+atln-1;1;0;0;0;0;1;1;0;0;0;0;0;U4PLG5;WBGene00021868;Y54G2A.2;ATLastiN (endoplasmic reticulum GTPase) related. Involved in IRE1-mediated unfolded protein response;Cytoplam, membrane;HGNC:24526
+ostb-1;1;0;0;1;0;1;0;0;0;0;0;0;P45971;WBGene00011638;T09A5.11;OligoSaccharylTransferase, Beta subunit. Involved in IRE1-mediated unfolded protein response ;Cytoplam, membrane;HGNC:2728
+sec-24.1;1;0;0;0;0;1;1;0;0;0;0;0;Q19371;WBGene00004755;F12F6.6;yeast SEC homolog. intracellular protein transport  ;Cytoplam, vesicles;HGNC:10705
+ahsa-1;0;0;0;0;1;1;0;0;0;0;0;0;Q93168;WBGene00007235;C01G10.8;Predicted to enable ATPase activator activity. Predicted to be involved in positive regulation of ATP-dependent activity and protein folding.;Cytoplam;HGNC:1189
+cct-6;0;0;0;0;0;1;1;0;0;0;0;0;P46550;WBGene00000381;F01F1.8;T-complex protein 1 subunit zeta;Proteosome;HGNC:1620
+cct-8;0;0;0;0;0;0;1;0;1;0;0;0;Q9N358;WBGene00021934;Y55F3AR.3;Chaperonin Containing TCP-1. Predicted to be involved in protein folding;Cytoplasm;HGNC:1623
+copa-1;1;0;0;1;0;0;0;0;0;0;0;0;Q9N4H7;WBGene00022119;Y71F9AL.17;COat Protein complex 1, Alpha subunit. Predicted to be involved in Golgi vesicle transport and intracellular protein transport;Cytoplasm, Golgi;HGNC:2230
+copb-1;0;0;0;0;0;1;0;0;1;0;0;0;Q9TYL9;WBGene00021292;Y25C1A.5;COP (COat Protomer) Beta subunit. Predicted to be involved in endoplasmic reticulum to Golgi vesicle-mediated transport and intra-Golgi vesicle-mediated transport;Cytoplasm, Golgi;HGNC:2231
+crt-1;1;0;0;0;0;0;1;0;0;0;0;0;P27798;WBGene00000802;Y38A10A.5;CalReTiculin. Involved in several processes, including IRE1-mediated unfolded protein response;Cytoplasm, endoplasmic reticulum;HGNC:1455
+erp-44.1;1;0;0;0;0;0;1;0;0;0;1;0;G5EFF8;WBGene00016278;C30H7.2;"Endoplasmic Reticulum Protein homolog. protein folding;cell redox homeostasis. Predicted to encode a protein with a Thioredoxin-like domain ";Cytoplasm, endoplasmic reticulum;HGNC:18311
+F52B11.2;0;0;0;1;0;0;0;0;1;0;0;0;Q9XUE6;WBGene00009925;F52B11.2;Predicted to enable phosphomannomutase activity. Involved in IRE1-mediated unfolded protein response.;Cytoplam;HGNC:9114
+rpn-1;1;0;0;1;0;0;0;0;0;0;0;0;Q9GZH5;WBGene00004458;T22D1.9;26S proteasome non-ATPase regulatory subunit 2;Proteosome;HGNC:9559
+rpn-2;1;0;0;0;0;1;0;0;0;0;0;0;Q18115;WBGene00004459;C23G10.4;26S proteasome non-ATPase regulatory subunit 1;Proteosome;HGNC:9554
+rpn-7;0;0;0;1;0;1;0;0;0;0;0;0;Q20585;WBGene00004463;F49C12.8;26S proteasome non-ATPase regulatory subunit 6;Proteosome;HGNC:9564
+rpt-4;1;0;0;0;0;0;0;1;0;0;0;0;O17071;WBGene00004504;F23F1.8;putative 26S proteasome regulatory subunit 10B;Proteosome;HGNC:9553
+sec-11;0;0;0;0;0;1;1;0;0;0;0;0;Q9N3D0;WBGene00021844;Y54E10BR.5;yeast SEC homolog. Predicted to enable peptidase activity. Involved in IRE1-mediated unfolded protein response. ;Cytoplasm, endoplasmic reticulum;HGNC:17718
+mct-6;0;0;0;0;0;0;1;0;0;1;0;0;O17328;WBGene00015676;C10E2.6;MonoCarboxylate Transporter family ;Membrane;HGNC:10922
+F09B12.3;0;0;0;1;0;0;1;0;0;0;0;0;O62146;WBGene00008607;F09B12.3;Putative phospholipase B-like 2 ;Extracellular;HGNC:27283
+plin-1;1;0;0;0;0;0;1;0;1;0;0;0;A8WHP8;WBGene00007024;W01A8.1;PeriLIpiN homolog;N.A.;N.A.
+clu-1;0;0;0;0;0;1;1;0;0;0;0;0;P34466;WBGene00000550;F55H2.6;yeast CLU (mitochondrial clustering) related.;N.A.;HGNC:29094
+ctsa-1.1;0;0;0;1;0;1;0;0;0;0;0;0;P52717;WBGene00018271;F41C3.5;CaThepSin A homolog. Predicted to be involved in proteolysis;N.A.;HGNC:9251
+dhs-9;0;0;0;0;0;0;0;1;0;0;0;1;Q9N538;WBGene00000973;Y32H12A.3;DeHydrogenases, Short chain. oxidoreductase activity ;N.A.;HGNC:16445
+R13H4.2;1;0;0;0;0;0;1;0;0;0;0;0;K8ESK7;WBGene00014826;R13H4.2;N.A.;N.A.;N.A.
+slc-25A10;0;1;0;1;0;0;0;0;0;0;0;0;G5EE96;WBGene00019656;K11G12.5;SLC (SoLute Carrier) homolog. Predicted to enable transmembrane transporter activity. Predicted to be involved in anion transport. Predicted to be located in membrane. Predicted to be integral component of membrane. Human ortholog(s) of this gene implicated in mitochondrial DNA depletion syndrome.;N.A.;HGNC:10980
+ucr-2.2;0;0;0;1;0;0;1;0;0;0;0;0;Q22370;WBGene00011679;T10B10.2;Ubiquinol-Cytochrome c oxidoReductase complex. Predicted to enable metalloendopeptidase activity. Predicted to be involved in proteolysis. Human ortholog(s) of this gene implicated in mitochondrial complex III deficiency nuclear type 5.;N:A.;HGNC:12586
+gpc-2;0;0;1;0;0;0;1;0;0;0;0;0;G5ECT6;WBGene00001682;F08B6.2;"G Protein, Gamma subunit . signal transduction;G-protein coupled receptor signaling pathway";N.A.;HGNC:14131
+mtch-1;0;0;1;0;0;1;0;0;0;0;0;0;H2KYJ5;WBGene00018395;F43E2.7;"membrane;integral component of membrane";Mitochondria (predicted);HGNC:17586
+skr-3;1;0;0;0;0;0;0;1;0;0;0;0;G5EE67;WBGene00004809;F44G3.6;SKp1 Related (ubiquitin ligase complex component). ;NA;HGNC:10899
+ZK856.16;0;0;1;0;0;1;0;0;0;0;0;0;A8WHN5;WBGene00050936;ZK856.16;NA;NA;N.A.
+abcf-2;0;0;0;0;0;0;1;0;0;0;1;0;G5EFG4;WBGene00012097;T27E9.7;ABC transporter, class F ;NA;HGNC:71
+bckd-1B;0;0;0;1;0;0;0;0;0;0;1;0;Q93619;WBGene00006518;F27D4.5;NA;NA;HGNC:987
+cand-1;0;0;0;0;0;0;1;0;0;0;1;0;G5ED41;WBGene00013606;Y102A5A.1;"Cullin-associated NEDD8-dissociated protein 1. protein ubiquitination;regulation of cullin deneddylation;SCF complex assembly ";nucleus;HGNC:30689
+clp-1;1;0;0;0;0;0;0;0;0;0;1;0;P34308;WBGene00000542;C06G4.2;"Calpain clp-1. proteolysis;positive regulation of necrotic cell death;proteolysis;proteolysis;proteolysis ";N.A.;HGNC:1476
+copb-2;0;0;0;0;0;0;1;0;0;0;1;0;Q20168;WBGene00009542;F38E11.5;"Probable coatomer subunit beta'  . transport;intracellular protein transport;protein transport;vesicle-mediated transport.";Membrane;HGNC:2232
+cox-6A;0;0;0;0;0;0;1;0;0;0;1;0;Q20779;WBGene00006519;F54D8.2;Probable cytochrome c oxidase subunit 6A, mitochondrial ;Mitochondria;HGNC:2277
+dhs-3;0;0;0;1;0;0;0;0;0;0;1;0;A5JYX5;WBGene00000967;T02E1.5;DeHydrogenases, Short chain. ;N.A.;HGNC:30311
+dif-1;0;0;0;1;0;0;0;0;0;0;1;0;Q27257;WBGene00000996;F49E8.5;"transmembrane transport;transport;multicellular organism development;translation;mitochondrial transport;.";Mitochondria;HGNC:1421
+let-721;0;0;0;0;0;1;0;0;0;0;1;0;Q11190;WBGene00002855;C05D11.12;Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial ;Mitochondria;HGNC:3483
+mlp-1;0;0;0;0;1;0;0;0;0;0;1;0;Q9GP94;WBGene00003375;T04C9.4;MLP/CRP family (Muscle LIM Protein/Cysteine-rich Protein) ;Cytoplam;HGNC:2361
+nduf-2.2;0;0;0;0;0;0;0;0;1;0;1;0;Q22800;WBGene00006463;T26A5.3;NADH Ubiquinone oxidoreductase Fe-S protein.;N.A.;HGNC:7708
+pars-1;0;0;0;0;0;0;0;0;1;0;1;0;Q22620;WBGene00004189;T20H4.3;Prolyl Amino-acyl tRNA Synthetase.;Cytoplam;HGNC:3418
+qns-1;0;0;0;0;0;0;1;0;0;0;1;0;F3Y5P6;WBGene00007698;C24F3.4;glutamine(Q)-dependent NAD(+) Synthase.;Cytoplam;HGNC:29832
+R05D3.9;0;0;0;0;0;0;0;0;0;1;1;0;P34542;WBGene00019882;R05D3.9;protein folding. protein disulfide isomerase activity;;N.A.
+rpac-19;0;0;0;1;0;0;0;0;0;0;1;0;P34476;WBGene00010230;F58A4.9;Probable DNA-directed RNA polymerases I and III subunit RPAC2 ;nucleus;HGNC:20422
+rpl-26;1;0;0;0;0;0;0;0;0;0;1;0;Q19869;WBGene00004440;F28C6.7;60S ribosomal protein L26 ;Cytoplam;HGNC:10327
+rpt-6;0;0;0;1;0;0;0;0;0;0;1;0;Q9XTT9;WBGene00004506;Y49E10.1;proteasome Regulatory Particle, ATPase-like ];Cytoplam;HGNC:9552
+spc-1;0;0;0;1;0;0;0;0;0;0;1;0;G4S034;WBGene00004951;K10B3.10;SPeCtrin. calcium ion binding protein.;N.A.;HGNC:11272
+teg-4;0;0;0;1;0;0;0;0;0;0;1;0;O44985;WBGene00019323;K02F2.3;Tumorous Enhancer of Glp-1(gf).  mRNA splicing, via spliceosome;nucleus;HGNC:10770
+vwa-8;0;0;0;0;0;0;1;0;0;0;1;0;S6EZK7;WBGene00008694;F11C1.5;"nucleotide binding;ATP binding;ATPase activity.";N.A.;HGNC:29071
+apa-2;0;0;1;0;0;0;0;0;0;0;1;0;Q22601;WBGene00000161;T20B5.1;"adaptin: specifically, it encodes an ortholog of the alpha subunit of adaptor protein complex 2 (AP2)\;";N.A.;HGNC:561
+T22D1.3;0;0;1;0;0;0;0;0;0;0;1;0;V6CIZ1;WBGene00020682;T22D1.3;Predicted to enable IMP dehydrogenase activity. Predicted to be involved in GTP biosynthetic process. ;Cytoplasm;HGNC:6052
+eelo-2;0;0;1;0;0;0;0;0;0;0;1;0;O62512;WBGene00013997;ZK550.3;Predicted to enable metal ion binding activity and metalloendopeptidase activity. Predicted to be involved in proteolysis. Is an ortholog of human THOP1 (thimet oligopeptidase 1).;N.A.;HGNC:11793
+czw-1;0;0;1;0;0;0;0;0;0;0;1;0;Q19642;WBGene00017643;F20D12.4;Predicted to be involved in endoplasmic reticulum to Golgi vesicle-mediated transport and mitotic spindle assembly checkpoint signaling. Part of RZZ complex. Is an ortholog of human ZW10 (zw10 kinetochore protein).;N.A.;HGNC:13194
