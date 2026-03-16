@@ -26,3 +26,12 @@ A continuación se detalla el contenido de este repositorio y la función de cad
 ├── figures/                # Gráficos y figuras generadas (alta resolución)
 ├── supplementary_text/     # Documentos de texto adicionales (ej: Apéndices, metodologías extendidas)
 └── README.md               # Este archivo
+
+
+@article{tu_apellido_202X,
+  title={Título completo de tu artículo científico},
+  author={Apellido, Nombre and Apellido, Nombre},
+  journal={Nombre de la Revista},
+  year={202X},
+  publisher={Nombre del Publisher}
+}
