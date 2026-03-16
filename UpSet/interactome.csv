@@ -1,4 +1,4 @@
-Gene name;ints-01;ints-02;ints-03;ints-04              ;ints-05             ;ints-06         ;ints-07         ;ints-08          ;ints-09          ;ints-11          ;ints-12;ints-13          ;Accession;Wormbase Gene ID;Sequence name;Description;Cellular compartment;Human ortholog
+Gene_name;ints-01;ints-02;ints-03;ints-04              ;ints-05             ;ints-06         ;ints-07         ;ints-08          ;ints-09          ;ints-11          ;ints-12;ints-13          ;Accession;Wormbase Gene ID;Sequence name;Description;Cellular compartment;Human ortholog
 nasp-2;1;1;0;1;0;1;0;0;0;1;0;0;O17687;WBGene00008218;C50B6.2;NASP (human Nuclear Autoantigenic Sperm Protein) homolog. Predicted to be involved in CENP-A containing chromatin assembly and DNA replication-dependent chromatin assembly;Nucleus;HGNC:7644
 ama-1;1;0;0;1;0;1;0;0;0;0;1;0;P16356;WBGene00000123;F36A4.7;DNA-directed RNA polymerase II subunit RPB1;Nucleus;HGNC:9187
 C06G3.8;0;0;1;0;0;1;0;0;0;1;0;0;Q17749;WBGene00015554;C06G3.8;Predicted to be part of SOSS complex;Nucleus;HGNC:26232
