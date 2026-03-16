@@ -16,4 +16,4 @@ To reproduce and explore the intersection plot from our study, you do not need t
 
 Once the data is loaded, the web interface will process the information and automatically visualize the intersection graph (cardinality, deviations, etc.) for the Integrator complex subunits, as shown in the screenshot below:
 
-![alt text](example_upset.JPG) 
+![alt text](example_upset.png)
