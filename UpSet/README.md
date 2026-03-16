@@ -12,5 +12,6 @@ To reproduce and explore the intersection plot from our study, you do not need t
 
    ```text
    https://raw.githubusercontent.com/rolopeg/Cabello-Lab/refs/heads/main/UpSet/interactome.csv
+4. Click the "Submit" button.
 
 ![alt text](example_upset.JPG)
