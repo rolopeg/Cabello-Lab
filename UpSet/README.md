@@ -6,7 +6,7 @@ This directory contains the interaction data of the Integrator complex (`interac
 
 To reproduce and explore the intersection plot from our study, you do not need to install any software. Just follow these steps:
 
-1. Go to the UpSet web application: <a href="[https://www.wikipedia.org/](https://vcg.github.io/upset/)" target="_blank" rel="UpSet">[Visita Wikipedia (en una nueva pestaña segura)](https://vcg.github.io/upset/)</a> 
+1. Go to the UpSet web application: <a href="https://vcg.github.io/upset/" target="_blank">https://vcg.github.io/upset/</a>
 2. On the top right navigation bar, click on the **"Load Data"** button.
 3. You will see a text box that says *"Provide a JSON file defining your data:"*. Copy and paste the following exact URL from our repository:
 
