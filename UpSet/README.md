@@ -8,7 +8,7 @@ To reproduce and explore the intersection plot from our study, you do not need t
 
 1. Go to the UpSet web application:[https://vcg.github.io/upset/](https://vcg.github.io/upset/)
 2. On the top right navigation bar, click on the **"Load Data"** button.
-3. You will see a text box that says *"Provide a JSON file defining your data:"* (it also accepts CSV). Copy and paste the following exact URL from our repository:
+3. You will see a text box that says *"Provide a JSON file defining your data:"*. Copy and paste the following exact URL from our repository:
 
    ```text
    https://raw.githubusercontent.com/rolopeg/Cabello-Lab/refs/heads/main/UpSet/interactome.json
