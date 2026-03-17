@@ -52,7 +52,7 @@ For a better reviewing experience, we have hosted the interactive network models
 
 ### UpSet Intersection Plot
 To explore the intersecting sets of interacting proteins (IP-MS data):
-* Visit the UpSet Web Application
+* Visit the UpSet Web Application: : <a href="https://vcg.github.io/upset/" target="_blank" rel="noopener noreferrer">https://vcg.github.io/upset/</a>
 * Click "Load Data".
 * Paste this URL into the JSON field and click "Submit": https://raw.githubusercontent.com/rolopeg/Cabello-Lab/refs/heads/main/UpSet/interactome.json
 
