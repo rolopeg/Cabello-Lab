@@ -54,7 +54,7 @@ For a better reviewing experience, we have hosted the interactive network models
 To explore the intersecting sets of interacting proteins (IP-MS data):
 * Visit the UpSet Web Application
 * Click "Load Data".
-* Paste this URL into the JSON/CSV field and click "Submit": https://raw.githubusercontent.com/rolopeg/Cabello-Lab/refs/heads/main/UpSet/interactome.csv
+* Paste this URL into the JSON field and click "Submit": https://raw.githubusercontent.com/rolopeg/Cabello-Lab/refs/heads/main/UpSet/interactome.json
 
 (See the UpSet/README.md file for more detailed instructions).
 
