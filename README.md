@@ -15,18 +15,22 @@ Askjaer(5), Marta Artal-Sanz(5), Ricardo García-Muñoz(1), Antonio Miranda-Vizu
 Cabello(1)#.
 
 1 Center for Biomedical Research of La Rioja (CIBIR), Logroño, Spain.
+
 2 Scientific Computation Research Institute (SCRIUR). University of La Rioja, Spain.
+
 3 European Molecular Biology Laboratory, EMBL Grenoble, France.
+
 4 Center for Cooperative Research in Biosciences (CIC bioGUNE), Basque Research and
 Technology Alliance (BRTA), Derio, Spain.
+
 5 Andalusian Centre for Developmental Biology, Consejo Superior de Investigaciones
 Científicas (CSIC), Universidad Pablo de Olavide, Sevilla, Spain.
+
 6 Redox Homeostasis Group, Instituto de Biomedicina de Sevilla, Hospital Universitario
 Virgen del Rocío/CSIC/Universidad de Sevilla, Seville, Spain.
+
 * Both authors contributed equally.
 # Corresponding author.
-
-*(Corresponding author: [your_email@institution.edu])*
 
 ---
 
