@@ -29,7 +29,8 @@ Científicas (CSIC), Universidad Pablo de Olavide, Sevilla, Spain.
 6 Redox Homeostasis Group, Instituto de Biomedicina de Sevilla, Hospital Universitario
 Virgen del Rocío/CSIC/Universidad de Sevilla, Seville, Spain.
 
-* Both authors contributed equally.
+\* Both authors contributed equally.
+
 \# Corresponding author.
 
 ---
