@@ -1,17 +1,30 @@
 # Cabello-Lab
-## Supplementary Material for: "The C. elegans Integrator interactome reveals its architecture and novel roles in homeostasis."
+## Supplementary Material for: "The C. elegans Integrator interactome reveals its architecture and novel roles in mitochondrial homeostasis"
 
-This repository contains the supplementary data, interactive network models, and visualizations associated with our study on the *Caenorhabditis elegans* Integrator complex.
+This repository contains the supplementary data, interactive network models, and visualizations associated with part our study on the *Caenorhabditis elegans* Integrator complex.
 
-> **[Cabello, J., et al. (2026). "The C. elegans Integrator interactome reveals its architecture and novel roles in homeostasis". Journal Name. Status: In review.]**
+> **[Cabello, J., et al. (2026). "The C. elegans Integrator interactome reveals its architecture and novel roles in mitochondrial homeostasis". Journal Name. Status: In review.]**
 
 ---
 
 ## 👥 Authors
 
-* **Cabello, J.** - *Centro de Investigación Biomédica de La Rioja, CIBIR.*
-* **Metola, A.** - *Centro de Investigación Biomédica de La Rioja, CIBIR.*
-* **[Author Name 3]** - *[Author 3 Affiliation]*
+Ángela Metola*(1), Eva Gómez-Orte*(1), Rosario López(2), Begoña Ezcurra(1), Michal Razew(3),
+Angelina Zheleva(1), Gonzalo Jiménez-Osés(4), María de Toro(1), Wojciech P. Galej(3), Peter
+Askjaer(5), Marta Artal-Sanz(5), Ricardo García-Muñoz(1), Antonio Miranda-Vizuete(6), Juan
+Cabello(1)#.
+
+1 Center for Biomedical Research of La Rioja (CIBIR), Logroño, Spain.
+2 Scientific Computation Research Institute (SCRIUR). University of La Rioja, Spain.
+3 European Molecular Biology Laboratory, EMBL Grenoble, France.
+4 Center for Cooperative Research in Biosciences (CIC bioGUNE), Basque Research and
+Technology Alliance (BRTA), Derio, Spain.
+5 Andalusian Centre for Developmental Biology, Consejo Superior de Investigaciones
+Científicas (CSIC), Universidad Pablo de Olavide, Sevilla, Spain.
+6 Redox Homeostasis Group, Instituto de Biomedicina de Sevilla, Hospital Universitario
+Virgen del Rocío/CSIC/Universidad de Sevilla, Seville, Spain.
+* Both authors contributed equally.
+# Corresponding author.
 
 *(Corresponding author: [your_email@institution.edu])*
 
